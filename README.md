@@ -3,7 +3,7 @@
  ## É um prazer tê-lo aqui no meu perfil! ##
 
  Olá, eu sou o Daniel Wallans!
-Tenho 24 anos e sou estudante de Engenharia de Software pela Estácio há 1 ano. Natural de Minas Gerais, sou apaixonado por tecnologia e tudo que envolve esse universo fascinante. Atualmente, estou focado em desenvolvimento front-end, explorando tecnologias como HTML, CSS, JavaScript e frameworks modernos para criar interfaces intuitivas e responsivas. No entanto, meu olhar está voltado para o futuro: quero me aprofundar no desenvolvimento de softwares completos, desde a interface até o back-end, criando soluções robustas e escaláveis.
+Tenho 25 anos e sou estudante de Engenharia de Software pela Estácio há 1 ano. Natural de Minas Gerais, sou apaixonado por tecnologia e tudo que envolve esse universo fascinante. Atualmente, estou focado em desenvolvimento front-end, explorando tecnologias como HTML, CSS, JavaScript e frameworks modernos para criar interfaces intuitivas e responsivas. No entanto, meu olhar está voltado para o futuro: quero me aprofundar no desenvolvimento de softwares completos, desde a interface até o back-end, criando soluções robustas e escaláveis.
 
 
 **`Engenharia de Software 🎓`**
