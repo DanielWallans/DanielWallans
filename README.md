@@ -69,7 +69,7 @@ Atualmente, estou mergulhado nestas tecnologias para construir aplicações cada
 
 ---
 
-## 📫 Vamos conversar?
+## Vamos conversar?
 
 Se quiser entrar em contato comigo ou acompanhar meus estudos, sinta-se à vontade:
 
