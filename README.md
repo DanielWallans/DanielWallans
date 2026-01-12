@@ -54,14 +54,15 @@ Confira meus projetos principais, experiências e habilidades detalhadas no meu 
 
 ---
 
-## Atividade e Insights
+## 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/DanielWallans?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo&theme=vision-friendly-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DanielWallans&show_icons=true&theme=vision-friendly-dark&border_radius=10" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielWallans&theme=vision-friendly-dark&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielWallans&theme=vision-friendly-dark&hide_border=false&border_radius=10" alt="Streak Stats" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielWallans&theme=vision-friendly-dark" />
 </p>
 
 ---
