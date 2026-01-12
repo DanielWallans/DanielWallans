@@ -54,11 +54,17 @@ Confira meus projetos principais, experiências e habilidades detalhadas no meu 
 
 ---
 
-## 📊 Atividade e Insights
+## Foco e Aprendizado
 
+Atualmente, estou mergulhado nestas tecnologias para construir aplicações cada vez mais completas e profissionais:
+
+<br>
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=DanielWallans&show_icons=true&theme=vision-friendly-dark&border_radius=10" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielWallans&theme=vision-friendly-dark&border_radius=10" />
+  <b>Buscando aprimorar meu conhecimento e expandir para:</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=java" title="Java" height="50" />
+  <img src="https://skillicons.dev/icons?i=next" title="Next.js" height="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="50" />
 </p>
 
 ---
